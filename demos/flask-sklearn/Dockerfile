@@ -19,4 +19,4 @@ Expose 80
 
 ## Complete Step 5:
 # Run app.py at container launch
-CMD ["python", "app.py"]
+CMD ["python3", "app.py"]

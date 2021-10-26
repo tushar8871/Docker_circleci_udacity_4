@@ -12,4 +12,4 @@ docker images
 
 # Step 3: 
 # Run flask app
-docker run -itd docker-flask -p 80:80 docker
+docker run -it -p 80:80 docker-flask
