@@ -5,4 +5,4 @@ click
 scikit-learn
 pylint
 joblib
-sklarn
+sklearn
