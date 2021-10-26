@@ -4,3 +4,5 @@ pandas
 click
 scikit-learn
 pylint
+joblib
+sklarn

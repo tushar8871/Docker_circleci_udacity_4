@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.circleci",
+    "\\demos",
+    "\\demos\\flask-sklearn-student-starter"
+  ],
+  "SelectedNode": "\\demos\\flask-sklearn-student-starter\\run_docker.sh",
+  "PreviewInSolutionExplorer": false
+}
