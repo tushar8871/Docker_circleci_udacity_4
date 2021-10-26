@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.Docker_circleci_udacity_4
+	python3 -m venv ~/Docker_circleci_udacity_4
 
 install:
 	pip install --upgrade pip &&\
